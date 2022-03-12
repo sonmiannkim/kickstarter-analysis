@@ -19,14 +19,14 @@
 	May and June and lower through September to March, therefore if Louise was recommended to focus on more on May or June 
 	fundraise rather than the winter season through out the year.</pre>
 	
-	![Outcomes Based on Launch Date](/../main/resources/Theater_Outcomes_vs_Launch.png)
+	![Outcomes Based on Launch Date]("/../main/resources/Theater_Outcomes_vs_Launch.png")
 	
 
 ### Analysis of Outcomes Based on Goals
 	<pre>Analyzing the data based on goals clearly indicated that the goals around $45,000 were the most sucessful and 
 	less failure compared to other goals  and she was recommended to set the goals  near the point where it was the most sucessful. </pre>
 	
-	![Outcomes Based on Goals](/../main/resources/Outcomes_vs_Goals.png)
+	![Outcomes Based on Goals]("/../main/resources/Outcomes_vs_Goals.png")
 	
 
 ### Challenges and Difficulties Encountered
